@@ -5,3 +5,7 @@ I'm a software developer who is passionate for creating private servers for all 
 Some projects I am working on right now is a Clash of Clans, Need For Speed: Underground and Halo: Online private server. From time to time I also work on my very own operating system VertexOS.
 
 Feel free to contact me on Discord (zzVertigo#2001) or by email (zzvertigo1@gmail.com)
+
+![zzVertigo's github stats](https://github-readme-stats.vercel.app/api?username=zzVertigo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzVertigo&layout=default&theme=radical)
