@@ -6,6 +6,6 @@ Some projects I am working on right now is a Clash of Clans, Need For Speed: Und
 
 Feel free to contact me on Discord (zzVertigo#2001) or by email (zzvertigo1@gmail.com)
 
-![zzVertigo's github stats](https://github-readme-stats.vercel.app/api?username=zzVertigo&show_icons=true&theme=radical)
+![zzVertigo's github stats](https://github-readme-stats.vercel.app/api?username=zzVertigo&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzVertigo&layout=default&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzVertigo&layout=default&theme=radical&hide_title=true)
