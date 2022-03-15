@@ -10,6 +10,6 @@ Some private server projects I am working on right now are:
 
 From time to time I also work on my very own operating system VertexOS however progress has been quite slow recently.
 
-Feel free to contact me on Discord (zzVertigo#2001) or by email (zz@vertigo.rocks)
+Feel free to contact me on Discord (zzVertigo#7134) or by email (zz@vertigo.rocks)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzVertigo&layout=default&theme=radical&hide_title=true)
