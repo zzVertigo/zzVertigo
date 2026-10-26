@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm zzVertigo</h1>
 <h3 align="center">A software developer from Canada who is passionate in building game servers</h3>
 
-- 🔭 I’m currently working on [Anvil Station](https://discord.gg/haloonline)
+- 🔭 I’m currently working on [Anvil Station](https://discord.gg/haloonline) and [CoDOL Classic](https://discord.gg/sypJUHPdJ6)
 
 - 📫 How to reach me **zz@vertigo.rocks**
 
